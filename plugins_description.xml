@@ -1,0 +1,7 @@
+<library path="overlay_text_display_rviz_plugin">
+  <class name="overlay_text_display_plugin/OverlayTextDisplay" 
+         type="overlay_text_display_rviz_plugin::OverlayTextDisplay" 
+        base_class_type="rviz_common::Display">
+    <description>Display the received string type message.</description>
+  </class>
+</library>

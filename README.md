@@ -5,4 +5,4 @@ overlay_text_display plugin for ros2
 
 * `std_msgs/String`
 
-[![Image from Gyazo](https://i.gyazo.com/f926eed4b4010eacf9c47091e1533e03.png)](https://gyazo.com/f926eed4b4010eacf9c47091e1533e03)
+[![Image from Gyazo](https://i.gyazo.com/055028807688439e14c391e6758c6481.png)](https://gyazo.com/055028807688439e14c391e6758c6481)
